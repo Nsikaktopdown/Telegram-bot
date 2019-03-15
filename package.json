@@ -1,0 +1,13 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nsikaktopdown/Telegram-bot.git",
+  "author": "Nsikak Thompson",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^5.9.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "open-graph-scraper": "^3.6.1"
+  }
+}
